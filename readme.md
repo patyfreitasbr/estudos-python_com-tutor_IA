@@ -55,7 +55,7 @@ Se você quiser seguir os mesmos estudos:
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/SEU_USUARIO/python-com-tutor-ia.git
+   git clone https://github.com/patyfreitasbr/estudos-python_com-tutor_IA.git
    ```
 
 
